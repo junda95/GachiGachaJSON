@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "ID": "UIText_19706",
+            "ID": "UIText_197060",
             "EN": "It's Empty...",
             "SP": "",
             "FR": "",
@@ -18,7 +18,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_21486",
+            "ID": "UIText_214860",
             "EN": "You have recieved",
             "SP": "",
             "FR": "",
@@ -35,7 +35,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_22102",
+            "ID": "UIText_221020",
             "EN": "Gachi is interacting with the furniture. Let's not disturb.",
             "SP": "",
             "FR": "",
@@ -52,7 +52,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_22868",
+            "ID": "UIText_228680",
             "EN": "Collected",
             "SP": "",
             "FR": "",
@@ -69,7 +69,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_23584",
+            "ID": "UIText_235840",
             "EN": "Shake No",
             "SP": "",
             "FR": "",
@@ -86,7 +86,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_23584",
+            "ID": "UIText_235841",
             "EN": "Nod Yes",
             "SP": "",
             "FR": "",
@@ -103,7 +103,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_24246",
+            "ID": "UIText_242460",
             "EN": "BUY",
             "SP": "",
             "FR": "",
@@ -120,7 +120,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_25032",
+            "ID": "UIText_250320",
             "EN": "Collected",
             "SP": "",
             "FR": "",
@@ -137,7 +137,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_31730",
+            "ID": "UIText_317300",
             "EN": "\" Gachi... I am about to leave to somewhere far. I hope these toys could keep you company as they did for me.\"",
             "SP": "",
             "FR": "",
@@ -154,7 +154,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_31730",
+            "ID": "UIText_317301",
             "EN": "Hey Dad,",
             "SP": "",
             "FR": "",
@@ -171,7 +171,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_31730",
+            "ID": "UIText_317302",
             "EN": "  Things here have just been so hectic. I can’t believe it’s already the end of the year. I’m sorry that I have to tell you this, I won't be able to visit you for quite a while... busy. I am working on a project \"Gachi-001\",  here is my very first prototype. I hope it’ll be able to keep you company for the time being because I won’t be able to.",
             "SP": "",
             "FR": "",
@@ -188,7 +188,7 @@
             "THAI": ""
         },
         {
-            "ID": "UIText_31730",
+            "ID": "UIText_317303",
             "EN": "Love, \nYour Son",
             "SP": "",
             "FR": "",
