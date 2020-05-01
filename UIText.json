@@ -1,208 +1,62 @@
-{
-    "texts": [
-        {
-            "ID": "UIText_197060",
-            "EN": "It's Empty...",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_214860",
-            "EN": "You have recieved",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_221020",
-            "EN": "Gachi is interacting with the furniture. Let's not disturb.",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_228680",
-            "EN": "Collected",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_235840",
-            "EN": "Shake No",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_235841",
-            "EN": "Nod Yes",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_242460",
-            "EN": "BUY",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_250320",
-            "EN": "Collected",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_317300",
-            "EN": "\" Gachi... I am about to leave to somewhere far. I hope these toys could keep you company as they did for me.\"",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_317301",
-            "EN": "Hey Dad,",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_317302",
-            "EN": "  Things here have just been so hectic. I can’t believe it’s already the end of the year. I’m sorry that I have to tell you this, I won't be able to visit you for quite a while... busy. I am working on a project \"Gachi-001\",  here is my very first prototype. I hope it’ll be able to keep you company for the time being because I won’t be able to.",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        },
-        {
-            "ID": "UIText_317303",
-            "EN": "Love, \nYour Son",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "VIET": "",
-            "MY": "",
-            "THAI": ""
-        }
-    ]
-}
+[
+    {
+        "id": "UIText_197060",
+        "en": "It's Empty...",
+        "cnsimplified": "它是空的..."
+    },
+    {
+        "id": "UIText_214860",
+        "en": "You have recieved",
+        "cnsimplified": "您已收到"
+    },
+    {
+        "id": "UIText_221020",
+        "en": "Gachi is interacting with the furniture. Let's not disturb.",
+        "cnsimplified": "Gachi正在与家具互动。让我们不要打扰。"
+    },
+    {
+        "id": "UIText_228680",
+        "en": "Collected",
+        "cnsimplified": "已收到"
+    },
+    {
+        "id": "UIText_235840",
+        "en": "Shake No",
+        "cnsimplified": "\n摇不"
+    },
+    {
+        "id": "UIText_235841",
+        "en": "Nod Yes",
+        "cnsimplified": "\n点头，是"
+    },
+    {
+        "id": "UIText_242460",
+        "en": "BUY",
+        "cnsimplified": "买"
+    },
+    {
+        "id": "UIText_250320",
+        "en": "Collected",
+        "cnsimplified": "已收到"
+    },
+    {
+        "id": "UIText_317300",
+        "en": "\" Gachi... I am about to leave to somewhere far. I hope these toys could keep you company as they did for me.\"",
+        "cnsimplified": "“ Gachi ...我将要离开去个很远的地方。我希望这些玩具能陪伴你，像它们当初陪伴我一样。”"
+    },
+    {
+        "id": "UIText_317301",
+        "en": "Hey Dad,",
+        "cnsimplified": "爸，"
+    },
+    {
+        "id": "UIText_317302",
+        "en": "  Things here have just been so hectic. I can’t believe it’s already the end of the year. I’m sorry that I have to tell you this, I won't be able to visit you for quite a while... busy. I am working on a project \"Gachi-001\",  here is my very first prototype",
+        "cnsimplified": "最近真的太忙了。我不敢相信已经是年底了。很抱歉，我不得不告诉您，我将很长时间无法拜访您。我正在研究“ Gachi-001”项目，这是我的第一个样板，希望能它能陪伴您。"
+    },
+    {
+        "id": "UIText_317303",
+        "en": "Love, \nYour Son",
+        "cnsimplified": "爱您的儿子"
+    }
+]
